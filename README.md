@@ -1,6 +1,7 @@
 # E-Commerce Back End
 
 ## Description
+Utilizing MySQL, express.js, sequelize, and dotenv packages and provided starter code from ***Trilogy Education Services*** I had to get the back end functioning but adding to the routes and models.
 
 ## Table of Contents
 - [User Story](#userstory)
@@ -34,4 +35,4 @@ THEN I am able to successfully create, update, and delete data in my database
 [GitHub Repo]()
 
 ## Walkthrough Video
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1_4ssnAYpDDmzzyw70NxJE-Q1pnsxiWfw/view)
