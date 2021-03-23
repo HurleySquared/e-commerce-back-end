@@ -73,7 +73,7 @@ router.delete('/:id', async (req, res) => {
     }
     res.status(200).json(categorydata);
   } catch (err) {
-    res.statusf(500).json(err);
+    res.status(500).json(err);
   }
 });
 
