@@ -32,7 +32,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## GitHub Repo
-[GitHub Repo]()
+[GitHub Repo](https://github.com/HurleySquared/e-commerce-back-end)
 
 ## Walkthrough Video
 [Walkthrough Video](https://drive.google.com/file/d/1_4ssnAYpDDmzzyw70NxJE-Q1pnsxiWfw/view)
